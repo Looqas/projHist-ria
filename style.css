@@ -1,0 +1,34 @@
+body {
+    background-color: navy;
+    color: lightskyblue;
+    font-family: "SUSE", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 200;
+}
+
+button {
+    background-color: lightskyblue;
+    color: nayv;
+    font-family: "Changa One", sans-serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    height: 450px;
+    max-width: 90%;
+}
